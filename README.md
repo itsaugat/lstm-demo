@@ -6,5 +6,6 @@ Make sure you have anaconda installed. Here are the steps to run the notebook fi
 - Create the environment from the environment.yml file : `conda env create -f environment.yml`
 - Activate the new created environment
 - Run the notebook file
+- Update the code in the `To Do` sections in the notebook file and explain with necessary comments. 
 
 
